@@ -1,0 +1,1 @@
+10000000|Robel Rolfson|{wifi:true,coffee:false}|5853 Madie Pike|North Serenaton|United Arab Emirates|100000
